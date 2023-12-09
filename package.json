@@ -1,34 +1,30 @@
 {
-  "name": "tailwind-m3-colors-generator",
+  "name": "hex-argb-converter",
   "version": "0.0.1",
-  "description": "material design 3 theme builder for tailwind",
+  "description": "You can convert hex color to argb number and convert argb number to hex color",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "type": "module",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alimortazavi-pr/tailwind-m3-colors-generator.git"
+    "url": "git+https://github.com/alimortazavi-pr/hex-argb-converter.git"
   },
   "keywords": [
     "color",
-    "tailwind",
-    "material",
-    "material3",
+    "convert",
+    "hex",
+    "argb",
+    "converter",
     "javascript",
     "typescript"
   ],
   "author": "Ali Mortazavi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alimortazavi-pr/tailwind-m3-colors-generator/issues"
+    "url": "https://github.com/alimortazavi-pr/hex-argb-converter/issues"
   },
-  "homepage": "https://github.com/alimortazavi-pr/tailwind-m3-colors-generator#readme",
-  "dependencies": {
-    "@material/material-color-utilities": "^0.2.7",
-    "fs-extra": "^11.2.0"
-  }
+  "homepage": "https://github.com/alimortazavi-pr/hex-argb-converter#readme"
 }
